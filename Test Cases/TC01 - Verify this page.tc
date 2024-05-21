@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify this page</description>
+   <name>TC01 - Verify this page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2863c56-9eeb-4322-9598-6952d422ae1f</testCaseGuid>
+</TestCaseEntity>
